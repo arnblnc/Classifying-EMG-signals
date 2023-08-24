@@ -10,4 +10,7 @@ Install the following Toolboxes from MATLAB:
 
 ## Usage
 Ensure all files are contained within the same folder
+train_test_eval_lda.m - Main program to train LDA classifier
+train_test_eval_lda.m - Main program to train SVM classifier
+
 (This program was specifially made to be compatible with a set of data provided to me)
