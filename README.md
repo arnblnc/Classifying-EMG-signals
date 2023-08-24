@@ -10,3 +10,4 @@ Install the following Toolboxes from MATLAB:
 
 ## Usage
 Ensure all files are contained within the same folder
+(This program was specifially made to be compatible with a set of data provided to me)
