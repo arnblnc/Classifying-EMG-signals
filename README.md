@@ -7,3 +7,6 @@ Install the following Toolboxes from MATLAB:
 - Statistics and Machine Learning Toolbox
 - Signal Processing Toolbox
 - EMG Feature Extraction Toolbox
+
+## Usage
+Ensure all files are contained within the same folder
