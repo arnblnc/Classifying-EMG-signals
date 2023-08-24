@@ -1,3 +1,5 @@
+% This file is used to view the raw data
+
 % Load the mat file
 loaded_data = load('Replace with path of data');
 
