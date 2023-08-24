@@ -1,5 +1,5 @@
 % Creates a file datastore
-folder_path = 'Replace with directory of data';
+folder_path = 'Replace with directory of data store';
 files = dir(fullfile(folder_path, '*.mat'));
 file_paths = fullfile(folder_path, {files.name});
 emgds = fileDatastore(file_paths,'ReadFcn',@load);
