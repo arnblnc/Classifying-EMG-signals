@@ -15,6 +15,6 @@ Ensure all files are contained within the same folder
 - train_test_eval_lda.m - Main program to train SVM classifier
 
 ## Data Compatability 
-The the data that contains the EMG signals must have the following properties:
+The data that contains the EMG signals must have the following properties:
 - Sampled at 1000Hz
 - 8 channels recorded
